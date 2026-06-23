@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Velupula Durga Prasad</h1>
-<h3 align="center">MCA Graduate | Aspiring Software Engineer | Python Developer</h3>
+<h1 align="center">Hi 👋, I'm Velupula Durgaprasad</h1>
+<h3 align="center">MCA Graduate | Aspiring Software Engineer | Java Full Stack Developer</h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -17,7 +17,7 @@
 
 #### Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
 
 #### Web Technologies
@@ -65,11 +65,11 @@
 ### 🤝 Connect With Me
 
 <p>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/velupula-durgaprasad-418a9424b/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:durgaprasad20072003@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
 </a>
 </p>
