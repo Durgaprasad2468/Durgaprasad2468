@@ -9,7 +9,7 @@
 - 🤖 Interested in **Generative AI and Software Development**
 - 💼 Looking for opportunities as a **Software Engineer**
 - 📍 Andhra Pradesh, India
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **durgaprasad20072003@gmail.com**
 
 ---
 
